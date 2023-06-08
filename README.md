@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I AM A FULL STACK WEB DEVELOPER
 -------------------------------
-src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif%22%3E 
+src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif%22%3E"
 
 I'm a Computer Science undergraduate, currently in my 3rd year of engineering.Trying my luck in web development. As a web developer, I aim to build websites that have some real life use cases and are responsive and user-friendly at the same time. Always looking forward to exploring new things that I stumble upon everyday.
 
